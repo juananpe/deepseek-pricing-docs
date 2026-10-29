@@ -1,0 +1,16 @@
+Copia local de Models & Pricing — DeepSeek API Docs
+
+Origen: https://api-docs.deepseek.com/quick_start/pricing/
+Guardada: 29 de octubre de 2026
+
+Abre index.html con tu navegador para consultar la página sin conexión.
+Solo se ha copiado esta página y sus recursos visuales. Los enlaces a otras
+páginas conservan sus destinos originales y requieren conexión.
+La copia es estática: no incluye el buscador ni la navegación interactiva
+de la aplicación original. Se conserva el contenido íntegro de la página.
+
+Para servirla opcionalmente por HTTP:
+  python3 -m http.server 8000 --bind 127.0.0.1 --directory /tmp/deepseek
+Después abre http://localhost:8000
+
+Nota: /tmp es temporal; guarda una copia fuera de /tmp para conservarla.

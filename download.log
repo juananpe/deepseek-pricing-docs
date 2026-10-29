@@ -1,0 +1,229 @@
+--2026-10-29 12:27:05--  https://api-docs.deepseek.com/quick_start/pricing/
+Resolving api-docs.deepseek.com (api-docs.deepseek.com)... 43.169.32.32
+Connecting to api-docs.deepseek.com (api-docs.deepseek.com)|43.169.32.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26043 (25K) [text/html]
+Saving to: ‘/tmp/deepseek/index.html’
+
+     0K .......... .......... .....                           100% 1.70M=0.01s
+
+2026-10-29 12:27:05 (1.70 MB/s) - ‘/tmp/deepseek/index.html’ saved [26043/26043]
+
+Loading robots.txt; please ignore errors.
+--2026-10-29 12:27:05--  https://api-docs.deepseek.com/robots.txt
+Reusing existing connection to api-docs.deepseek.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 49316 (48K) [text/html]
+Saving to: ‘/tmp/deepseek/robots.txt.html’
+
+     0K .......... .......... .......... .......... ........  100% 36.9M=0.001s
+
+2026-10-29 12:27:05 (36.9 MB/s) - ‘/tmp/deepseek/robots.txt.html’ saved [49316/49316]
+
+Loading robots.txt; please ignore errors.
+--2026-10-29 12:27:05--  https://cdn.deepseek.com/robots.txt
+Resolving cdn.deepseek.com (cdn.deepseek.com)... 23.90.190.144, 23.90.190.140, 23.90.190.143
+Connecting to cdn.deepseek.com (cdn.deepseek.com)|23.90.190.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-10-29 12:27:06 ERROR 404: Not Found.
+
+--2026-10-29 12:27:06--  https://api-docs.deepseek.com/img/favicon.svg
+Connecting to api-docs.deepseek.com (api-docs.deepseek.com)|43.169.32.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3652 (3.6K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/favicon.svg’
+
+     0K ...                                                   100%  120M=0s
+
+2026-10-29 12:27:06 (120 MB/s) - ‘/tmp/deepseek/favicon.svg’ saved [3652/3652]
+
+--2026-10-29 12:27:06--  https://api-docs.deepseek.com/assets/css/styles.9cde8b01.css
+Reusing existing connection to api-docs.deepseek.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 152772 (149K) [text/css]
+Saving to: ‘/tmp/deepseek/styles.9cde8b01.css’
+
+     0K .......... .......... .......... .......... .......... 33% 1.85M 0s
+    50K .......... .......... .......... .......... .......... 67% 2.11M 0s
+   100K .......... .......... .......... .......... ......... 100% 5.97M=0.06s
+
+2026-10-29 12:27:06 (2.53 MB/s) - ‘/tmp/deepseek/styles.9cde8b01.css’ saved [152772/152772]
+
+Loading robots.txt; please ignore errors.
+--2026-10-29 12:27:06--  https://raw.githubusercontent.com/robots.txt
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-10-29 12:27:06 ERROR 404: Not Found.
+
+--2026-10-29 12:27:06--  https://api-docs.deepseek.com/assets/js/runtime~main.201766f5.js
+Connecting to api-docs.deepseek.com (api-docs.deepseek.com)|43.169.32.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7802 (7.6K) [application/javascript]
+Saving to: ‘/tmp/deepseek/runtime~main.201766f5.js’
+
+     0K .......                                               100%  131M=0s
+
+2026-10-29 12:27:06 (131 MB/s) - ‘/tmp/deepseek/runtime~main.201766f5.js’ saved [7802/7802]
+
+--2026-10-29 12:27:06--  https://api-docs.deepseek.com/assets/js/main.9486cded.js
+Reusing existing connection to api-docs.deepseek.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 541544 (529K) [application/javascript]
+Saving to: ‘/tmp/deepseek/main.9486cded.js’
+
+     0K .......... .......... .......... .......... ..........  9%  159M 0s
+    50K .......... .......... .......... .......... .......... 18% 1.01M 0s
+   100K .......... .......... .......... .......... .......... 28% 3.24M 0s
+   150K .......... .......... .......... .......... .......... 37% 2.54M 0s
+   200K .......... .......... .......... .......... .......... 47% 9.28M 0s
+   250K .......... .......... .......... .......... .......... 56% 45.8M 0s
+   300K .......... .......... .......... .......... .......... 66%  394M 0s
+   350K .......... .......... .......... .......... .......... 75% 7.21M 0s
+   400K .......... .......... .......... .......... .......... 85% 3.51M 0s
+   450K .......... .......... .......... .......... .......... 94% 3.02M 0s
+   500K .......... .......... ........                        100%  133M=0.1s
+
+2026-10-29 12:27:07 (4.08 MB/s) - ‘/tmp/deepseek/main.9486cded.js’ saved [541544/541544]
+
+--2026-10-29 12:27:07--  https://api-docs.deepseek.com/img/logo-mark-light.svg
+Reusing existing connection to api-docs.deepseek.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3629 (3.5K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/logo-mark-light.svg’
+
+     0K ...                                                   100% 34.3M=0s
+
+2026-10-29 12:27:07 (34.3 MB/s) - ‘/tmp/deepseek/logo-mark-light.svg’ saved [3629/3629]
+
+--2026-10-29 12:27:07--  https://api-docs.deepseek.com/img/logo-mark-dark.svg
+Reusing existing connection to api-docs.deepseek.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3629 (3.5K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/logo-mark-dark.svg’
+
+     0K ...                                                   100% 50.2M=0s
+
+2026-10-29 12:27:07 (50.2 MB/s) - ‘/tmp/deepseek/logo-mark-dark.svg’ saved [3629/3629]
+
+--2026-10-29 12:27:07--  https://cdn.deepseek.com/official_account.jpg
+Connecting to cdn.deepseek.com (cdn.deepseek.com)|23.90.190.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64255 (63K) [image/jpeg]
+Saving to: ‘/tmp/deepseek/official_account.jpg’
+
+     0K .......... .......... .......... .......... .......... 79% 1.90M 0s
+    50K .......... ..                                         100%  255K=0.03s
+
+2026-10-29 12:27:07 (2.38 MB/s) - ‘/tmp/deepseek/official_account.jpg’ saved [64255/64255]
+
+--2026-10-29 12:27:07--  https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2300 (2.2K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/python-original.svg’
+
+     0K ..                                                    100% 18.4M=0s
+
+2026-10-29 12:27:07 (18.4 MB/s) - ‘/tmp/deepseek/python-original.svg’ saved [2300/2300]
+
+--2026-10-29 12:27:07--  https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1866 (1.8K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/go-original-wordmark.svg’
+
+     0K .                                                     100% 6.52M=0s
+
+2026-10-29 12:27:07 (6.52 MB/s) - ‘/tmp/deepseek/go-original-wordmark.svg’ saved [1866/1866]
+
+--2026-10-29 12:27:07--  https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1144 (1.1K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/javascript-original.svg’
+
+     0K .                                                     100% 34.1M=0s
+
+2026-10-29 12:27:07 (34.1 MB/s) - ‘/tmp/deepseek/javascript-original.svg’ saved [1144/1144]
+
+--2026-10-29 12:27:07--  https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1772 (1.7K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/bash-plain.svg’
+
+     0K .                                                     100% 7.65M=0s
+
+2026-10-29 12:27:08 (7.65 MB/s) - ‘/tmp/deepseek/bash-plain.svg’ saved [1772/1772]
+
+--2026-10-29 12:27:08--  https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1905 (1.9K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/ruby-plain.svg’
+
+     0K .                                                     100% 9.56M=0s
+
+2026-10-29 12:27:08 (9.56 MB/s) - ‘/tmp/deepseek/ruby-plain.svg’ saved [1905/1905]
+
+--2026-10-29 12:27:08--  https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 851 [image/svg+xml]
+Saving to: ‘/tmp/deepseek/csharp-original.svg’
+
+     0K                                                       100% 26.2M=0s
+
+2026-10-29 12:27:08 (26.2 MB/s) - ‘/tmp/deepseek/csharp-original.svg’ saved [851/851]
+
+--2026-10-29 12:27:08--  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1806 (1.8K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/nodejs-original.svg’
+
+     0K .                                                     100% 2.80M=0.001s
+
+2026-10-29 12:27:08 (2.80 MB/s) - ‘/tmp/deepseek/nodejs-original.svg’ saved [1806/1806]
+
+--2026-10-29 12:27:08--  https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4624 (4.5K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/php-original.svg’
+
+     0K ....                                                  100% 7.92M=0.001s
+
+2026-10-29 12:27:08 (7.92 MB/s) - ‘/tmp/deepseek/php-original.svg’ saved [4624/4624]
+
+--2026-10-29 12:27:08--  https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1540 (1.5K) [image/svg+xml]
+Saving to: ‘/tmp/deepseek/java-original.svg’
+
+     0K .                                                     100% 9.54M=0s
+
+2026-10-29 12:27:09 (9.54 MB/s) - ‘/tmp/deepseek/java-original.svg’ saved [1540/1540]
+
+--2026-10-29 12:27:09--  https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg
+Reusing existing connection to raw.githubusercontent.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 276 [image/svg+xml]
+Saving to: ‘/tmp/deepseek/windows8-original.svg’
+
+     0K                                                       100% 12.0M=0s
+
+2026-10-29 12:27:09 (12.0 MB/s) - ‘/tmp/deepseek/windows8-original.svg’ saved [276/276]
+
+FINISHED --2026-10-29 12:27:09--
+Total wall clock time: 3.8s
+Downloaded: 19 files, 850K in 0.2s (3.64 MB/s)
+Converting links in /tmp/deepseek/robots.txt.html... 41.
+14-27
+Converting links in /tmp/deepseek/index.html... 52.
+16-36
+Converting links in /tmp/deepseek/styles.9cde8b01.css... 10.
+10-0
+Converted links in 3 files in 0.004 seconds.
